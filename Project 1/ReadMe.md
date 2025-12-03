@@ -17,7 +17,7 @@ The questions that i will be answering are as follows:
 
 The link to my Jupyter notebook code and all relevent EDA analysis will be found [Here](/Project1/WorldDevelopmentIndicators.ipynb)
 
-
+[here](/Project1/WorldDevelopmentIndicators.ipynb)
 ## Blog Post
 My main findings gethered on my notebook can be found on the blog i wrote Medium and can be accessed  [here](https://medium.com/@sherifyasser19/3-global-secrets-that-define-life-expectancy-and-the-year-the-world-paused-bb590b52dd12).
 
