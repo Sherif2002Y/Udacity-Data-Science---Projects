@@ -1,4 +1,4 @@
-# **The Dataset: World Development Indicators**
+# **World Development Indicators**
 
 This dataset provides comprehensive insights into global socioeconomic development, consumer behavior indicators, and demographic patterns across various countries and years. It includes variables such as life expectancy, education enrollment, energy consumption, and technological adoption rates.
 The dataset can be found [Here](https://databank.worldbank.org/source/world-development-indicators#)
