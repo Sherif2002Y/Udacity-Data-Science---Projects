@@ -7,7 +7,7 @@ This project follows the CRISP-DM process to demonstrate my data science skills 
 I chose the World Development Indicators dataset out of personal interest to explore global socioeconomic trends 
 and understand the factors that drive development and influence policy decisions.
 
- Click [here](Project1/README.md) to view project and all corresponding files and code.
+ Click [here](Project1/ReadMe.md) to view project and all corresponding files and code.
 
 
 ## 📚 Resources
