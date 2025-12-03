@@ -1,4 +1,4 @@
-# **The Dataset: World Development Indicators**
+# **Dataset: World Development Indicators**
 
 This dataset provides comprehensive insights into global socioeconomic development, consumer behavior indicators, and demographic patterns across various countries and years. It includes variables such as life expectancy, education enrollment, energy consumption, and technological adoption rates.
 The dataset can be found [Here](https://databank.worldbank.org/source/world-development-indicators#)
@@ -7,15 +7,15 @@ I will be using the CRISP-DM process and communicate insights through comments a
 
 ## Project Motivation
 
-For this project i was interested in conducting exploratory data analysis following the follow the CRISP-DM process on the World Development Indicators Dataset which can be found [here.](https://databank.worldbank.org/source/world-development-indicators#)
+For this project I was interested in conducting exploratory data analysis following the follow the CRISP-DM process on the World Development Indicators Dataset which can be found [here.](https://databank.worldbank.org/source/world-development-indicators#)
 
-The questions that i will be answering are as follows:
+The questions that I will be answering are as follows:
 
 - Q1. What are the top 5 factors most positively associated with higher life expectancy?
-- Q2. hat is the historical trend of global energy consumption per capita between 2010-2020?
+- Q2. What is the historical trend of global energy consumption per capita between (2010-2020)?
 - Q3. Which five countries had the highest total energy consumption per capita from 2010 to 2020?
 
-The link to my jupyter notebook code and all relevent EDA analysis will be found Here
+The link to my jupyter notebook code and all relevent EDA analysis will be found [Here]()
 
 
 ## Blog Post
