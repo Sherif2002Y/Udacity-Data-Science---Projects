@@ -15,9 +15,8 @@ The questions that i will be answering are as follows:
 - Q2. What is the historical trend of global energy consumption per capita between 2010-2020?
 - Q3. Which five countries had the highest total energy consumption per capita from 2010 to 2020?
 
-The link to my Jupyter notebook code and all relevent EDA analysis will be found [Here](/Project1/WorldDevelopmentIndicators.ipynb)
+The link to my Jupyter notebook code and all relevent EDA analysis will be found [Here](WorldDevelopmentIndicators.ipynb)
 
-[here](/Project_1/WorldDevelopmentIndicators.ipynb)
 ## Blog Post
 My main findings gethered on my notebook can be found on the blog i wrote Medium and can be accessed  [here](https://medium.com/@sherifyasser19/3-global-secrets-that-define-life-expectancy-and-the-year-the-world-paused-bb590b52dd12).
 
