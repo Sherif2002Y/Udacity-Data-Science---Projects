@@ -7,4 +7,4 @@ This project follows the CRISP-DM process to demonstrate my data science skills 
 I chose the World Development Indicators dataset out of personal interest to explore global socioeconomic trends 
 and understand the factors that drive development and influence policy decisions.
 
- Click [here](Project1/ReadMe.md) to view project and all corresponding files and code.
+ Click [here](https://github.com/Sherif2002Y/Udacity-Data-Science---Projects/blob/c25e7c29f7928c3d38034a95c9672f36801e8478/Project%201/ReadMe.md) to view project and all corresponding files and code.
