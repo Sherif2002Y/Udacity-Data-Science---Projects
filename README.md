@@ -1,5 +1,5 @@
 # Udacity Data Science - Projects
-This repo contains projects that i have worked on for the [Udacity](https://www.udacity.com/) Data Scientist Nanodegree program
+This repo contains projects that I have worked on for the [Udacity](https://www.udacity.com/) Data Scientist Nanodegree program
 
 ## Project 1: Introduction to Data Science - World Development Indicators
 
@@ -15,5 +15,4 @@ and understand the factors that drive development and influence policy decisions
 
 ### Project Overview
 In this project, I acted as a Data Scientist for a manufacturing company to address concerns regarding employee turnover. The goal was to build a functional dashboard for managers to monitor team productivity and the risk of employees being recruited by competitors.
-
-Click [here](#) to view the project and all corresponding files and code.
+[Click](https://github.com/Sherif2002Y/Udacity-Data-Science---Projects/tree/3070bd4d19d0deca92db59a1f06c30acafb41c27/Project%202) to view the project and all corresponding files and code.
