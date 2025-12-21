@@ -1,4 +1,4 @@
-## Project 3: Data Science Pipeline - StyleSense Forecasting
+## Project 3: Data Science Pipeline
 
 ### Project Overview
 In this project, I developed an end-to-end Machine Learning Pipeline for "StyleSense," an online fashion retailer. The goal was to automate the prediction of whether a customer would recommend a product (Recommended IND) by processing a complex dataset containing numerical, categorical, and unstructured text data.
