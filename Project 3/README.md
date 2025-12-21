@@ -16,4 +16,4 @@ I built a modular pipeline using Scikit-Learn to handle diverse feature sets sim
 * Evaluation: Measured success using the F1-Score to ensure a balance between precision and recall for recommended products.
 * Deployment Ready: Saved the final tuned model as a .pkl file for easy integration into production environments.
 
-Click [here]() to view the full Jupyter Notebook and implementation code.
+Click [here](https://github.com/Sherif2002Y/Udacity-Data-Science---Projects/blob/a6d003f023c6e2d720d57475ead56c0f198d651c/Project%203/starter/starter.ipynb) to view the full Jupyter Notebook and implementation code.
