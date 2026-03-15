@@ -19,7 +19,6 @@ Click [here](https://github.com/Sherif2002Y/Udacity-Data-Science---Projects/blob
 
 
 
-
 ## Project 3: Data Science Pipeline
 
 **Project Overview:**
@@ -32,3 +31,57 @@ I developed a machine learning pipeline to predict if a customer would recommend
 * Business Impact: Created a tool to automatically flag product recommendations even when the user leaves the recommendation field blank.
 
   Click [here](https://github.com/Sherif2002Y/Udacity-Data-Science---Projects/tree/a6d003f023c6e2d720d57475ead56c0f198d651c/Project%203) to view project and all corresponding files and code.
+
+
+
+
+## Project 4: Recommendation System
+
+### Project Overview
+In this project, I built a **Recommendation System** to analyze user-item interaction data and suggest relevant content to users. The goal was to explore different recommendation techniques and understand how platforms personalize user experiences.
+
+### Business Scenario
+Many digital platforms rely on recommendation systems to improve user engagement and help users discover relevant content. By analyzing interaction data, the system can identify user preferences and recommend items that match their interests.
+
+### Technical Implementation
+- Processed and analyzed interaction data using **Pandas** and **NumPy**.
+- Implemented recommendation techniques such as **Popularity-Based Recommendation** and **Collaborative Filtering**.
+- Evaluated recommendation performance using common evaluation metrics.
+- Developed and tested the solution using **Python** and **Jupyter Notebook**.
+
+Click [here](https://github.com/Sherif2002Y/Udacity-Data-Science---Projects/blob/main/Project%204/Project%20Recommendation%20System/README.md) to view the project and all corresponding files and code.
+
+
+
+## Project 5: Credit Card Fraud Detection
+
+### Project Overview
+In this project, I built a **Machine Learning model** to detect fraudulent credit card transactions using historical transaction data. The goal is to identify suspicious transactions and help financial institutions reduce fraud and protect customers.
+
+### Business Scenario
+Credit card fraud is a major challenge for financial institutions. Detecting fraudulent transactions quickly can prevent financial losses and protect customers from unauthorized charges.  
+
+This project analyzes transaction data to identify patterns that distinguish normal transactions from fraudulent ones.
+
+### Technical Implementation
+- Performed **data exploration and preprocessing** on a highly imbalanced dataset.
+- Applied **machine learning techniques** to classify fraudulent and non-fraudulent transactions.
+- Handled **class imbalance** in the dataset to improve model performance.
+- Evaluated the model using appropriate **classification metrics**.
+
+### Dataset
+The dataset contains credit card transactions made by European cardholders in September 2013.
+
+- **Total transactions:** 284,807  
+- **Fraud cases:** 492  
+- **Fraud percentage:** 0.172%
+
+The dataset is highly imbalanced, which makes fraud detection a challenging machine learning problem.
+
+### Tools & Technologies
+- Python  
+- Pandas & NumPy  
+- Scikit-learn  
+- Jupyter Notebook  
+
+Click [here](https://github.com/Sherif2002Y/Udacity-Data-Science---Projects/blob/main/Project%205/README.md) to view the project and all corresponding files and code.
